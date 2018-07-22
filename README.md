@@ -7,7 +7,8 @@ In this project, I was given a web-based application that reads RSS feeds includ
 
 1. Download this repository to your pc.
 2. Open index.html
-3. If all tests passed, the Jasmine section at the bottom of the page will show green
+3. If all tests passed, the Jasmine section at the bottom of the page will show green as shown below:
+![Alt Text](/jasmine_pass.png?raw=true "screenshot for passing tests")
 4. If there is a test failed, the Jasmine section will show red.
 
 ## Required Tests
@@ -42,7 +43,3 @@ New Feed Selection:
 * Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
 * JavaScript Testing [course](https://www.udacity.com/course/ud549)
 
-
-19. Implement error handling for undefined variables and out-of-bound array access.
-20. When complete - all of your tests should pass. 
-21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
