@@ -11,6 +11,7 @@ In this project, I was given a web-based application that reads RSS feeds includ
 ![Alt Text](/jasmine_pass.png?raw=true "screenshot for passing tests")
 4. If there is a test failed, the Jasmine section will show red.
 
+
 ## Required Tests
 
 RSS Feeds:
@@ -31,11 +32,6 @@ Initial Entries:
 New Feed Selection:
 
 * Test that when a new feed is loaded, the content actually changes.
-
-
-## Additional Tests
-
-
 
 
 ## Sources:
